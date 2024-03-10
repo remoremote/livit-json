@@ -3,8 +3,43 @@ const { fetchHTML } = require("../utils/fetchData");
 async function scrapePage(link) {
 const $ = await fetchHTML(link);
 if (!$) return null;
+  // Extract the title
+  const title = $('h1:first-of-type').text();
 
-  const details = {};
+  // Extract images from lightbox
+  const images = [];
+  $('a.fslightbox-source.fslightbox-opacity-1').each((i, elem) => {
+    const imageUrl = $(elem).attr('href');
+    if (imageUrl && !images.includes(imageUrl)) {
+      images.push(imageUrl);
+    }
+  });
+
+  // Extract key-value pairs
+  const keyValuePairs = {};
+  $('.w-full.flex.items-center').each((i, elem) => {
+    const key = $(elem).find('.flex.items-center.flex-1').text().trim();
+    const value = $(elem).find('.text-sm').text().trim();
+    if (key && value) {
+      keyValuePairs[key] = value;
+    }
+  });
+
+  // Extract description and check for email
+  const descriptionHtml = $('p.rich-text.section-block').html(); // removed the Tailwind pseudo-class
+  const descriptionMarkdown = descriptionHtml ? toMarkdown(descriptionHtml) : '';
+  const emailMatch = descriptionMarkdown.match(/\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b/);
+  const systemEmail = emailMatch ? emailMatch[0] : '';
+
+  // Combine all details
+  const details = {
+    title,
+    images,
+    ...keyValuePairs,
+    description: descriptionMarkdown,
+    systemEmail
+  };
+  
   return details;
 
 }
