@@ -1,6 +1,9 @@
 const { scrapeOverviewPage } = require("./src/scrape/scrapeOverviewPage");
 const { scrapePage } = require("./src/scrape/scrapePage");
 const { saveToJson } = require("./src/database/saveToJson");
+const { saveDataToFile } = require("./src/utils/fileHelpers");
+
+
 
 async function main() {
   console.log("Starting main scraping function...");
@@ -36,5 +39,14 @@ async function main() {
 }
 
 main();
+
+function jsonToCsv(jsonData) {
+  if (!jsonData.length) return ''; // No data, return empty CSV.
+  const headers = Object.keys(jsonData[0]);
+  const csvRows = jsonData.map(row =>
+    headers.map(fieldName => JSON.stringify(row[fieldName], null, 2)).join(',')
+  );
+  return [headers.join(','), ...csvRows].join('\n');
+}
 
 module.exports = { main };

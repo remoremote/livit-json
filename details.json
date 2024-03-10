@@ -1,6 +1,7 @@
 [
   {
-    "title": "  \n\n                    R1 - Haus im Ried - Büro- oder Gewerbefläche\n            \n\n  ",
+    "id": 1,
+    "title": "R1 - Haus im Ried - Büro- oder Gewerbefläche",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          107 m²",
@@ -13,7 +14,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Büroräume an zentraler Lage in Oerlikon\n            \n\n  ",
+    "id": 2,
+    "title": "Büroräume an zentraler Lage in Oerlikon",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          24 m²",
@@ -26,7 +28,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Büro- und Gewerbefläche - GO! Gewerbehaus in Oberentfelden - 130m2\n            \n\n  ",
+    "id": 3,
+    "title": "Büro- und Gewerbefläche - GO! Gewerbehaus in Oberentfelden - 130m2",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          130 m²",
@@ -43,7 +46,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Hier findet Ihr Restaurant einen Idealen Platz mit Innenhof.\n            \n\n  ",
+    "id": 4,
+    "title": "Hier findet Ihr Restaurant einen Idealen Platz mit Innenhof.",
     "images": [],
     "Objektart": "Objektart\n          Gewerbe",
     "Nutzfläche": "Nutzfläche\n          267 m²",
@@ -59,7 +63,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Vielseitige Mietfläche: Der perfekte Start für Ihr Business\n            \n\n  ",
+    "id": 5,
+    "title": "Vielseitige Mietfläche: Der perfekte Start für Ihr Business",
     "images": [],
     "Objektart": "Objektart\n          Gewerbe",
     "Nutzfläche": "Nutzfläche\n          189 m²",
@@ -76,7 +81,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Ladenfläche an trendiger Lage sucht neuen Mieter\n            \n\n  ",
+    "id": 6,
+    "title": "Ladenfläche an trendiger Lage sucht neuen Mieter",
     "images": [],
     "Objektart": "Objektart\n          Ladenfläche",
     "Nutzfläche": "Nutzfläche\n          82 m²",
@@ -92,7 +98,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Tolle Möglichkeit - möblierter Arbeitsplatz!\n            \n\n  ",
+    "id": 7,
+    "title": "Tolle Möglichkeit - möblierter Arbeitsplatz!",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          25 m²",
@@ -109,7 +116,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Situation idéale\n            \n\n  ",
+    "id": 8,
+    "title": "Situation idéale",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          174 m²",
@@ -125,7 +133,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Büroräumlichkeiten mit Potenzial!\n            \n\n  ",
+    "id": 9,
+    "title": "Büroräumlichkeiten mit Potenzial!",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          182 m²",
@@ -143,7 +152,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Vous cherchez une surface commerciale au centre de Morges?\n            \n\n  ",
+    "id": 10,
+    "title": "Vous cherchez une surface commerciale au centre de Morges?",
     "images": [],
     "Objektart": "Objektart\n          Coiffeursalon",
     "Nutzfläche": "Nutzfläche\n          75 m²",
@@ -156,7 +166,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Praxisflächen in Top-Lage am Bahnhof Brunnen!\n            \n\n  ",
+    "id": 11,
+    "title": "Praxisflächen in Top-Lage am Bahnhof Brunnen!",
     "images": [],
     "Objektart": "Objektart\n          Praxis",
     "Nutzfläche": "Nutzfläche\n          132 m²",
@@ -175,7 +186,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Plug & Work: Moderne Büroflächen mit eigener Dachterrasse\n            \n\n  ",
+    "id": 12,
+    "title": "Plug & Work: Moderne Büroflächen mit eigener Dachterrasse",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          101 m²",
@@ -194,7 +206,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Attraktive Büroflächen in Gehdistanz zum Bahnhof Brunnen!\n            \n\n  ",
+    "id": 13,
+    "title": "Attraktive Büroflächen in Gehdistanz zum Bahnhof Brunnen!",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          769 m²",
@@ -209,7 +222,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Modern. Urban. Zentral. - Cityside Luzern\n            \n\n  ",
+    "id": 14,
+    "title": "Modern. Urban. Zentral. - Cityside Luzern",
     "images": [],
     "Objektart": "Objektart\n          Gewerbe",
     "Nutzfläche": "Nutzfläche\n          147 m²",
@@ -223,7 +237,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Praxisfläche im Herzen der Luzerner Altstadt\n            \n\n  ",
+    "id": 15,
+    "title": "Praxisfläche im Herzen der Luzerner Altstadt",
     "images": [],
     "Objektart": "Objektart\n          Praxis",
     "Nutzfläche": "Nutzfläche\n          220 m²",
@@ -239,7 +254,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Bürofläche im Herzen der Luzerner Altstadt\n            \n\n  ",
+    "id": 16,
+    "title": "Bürofläche im Herzen der Luzerner Altstadt",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          220 m²",
@@ -255,7 +271,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    CitySide - Inspirierende Büro- und Praxisflächen\n            \n\n  ",
+    "id": 17,
+    "title": "CitySide - Inspirierende Büro- und Praxisflächen",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          71 m²",
@@ -272,7 +289,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Zentrales Büro im Herzen von Zürich!\n            \n\n  ",
+    "id": 18,
+    "title": "Zentrales Büro im Herzen von Zürich!",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          49 m²",
@@ -289,7 +307,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!\n            \n\n  ",
+    "id": 19,
+    "title": "Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          90 m²",
@@ -304,7 +323,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Gewerbefläche mitten in der Stadt!\n            \n\n  ",
+    "id": 20,
+    "title": "Gewerbefläche mitten in der Stadt!",
     "images": [],
     "Objektart": "Objektart\n          Ladenfläche",
     "Nutzfläche": "Nutzfläche\n          101 m²",
@@ -319,7 +339,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!\n            \n\n  ",
+    "id": 21,
+    "title": "Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          173 m²",
@@ -331,7 +352,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Arcade à louer au centre-ville de Fribourg\n            \n\n  ",
+    "id": 22,
+    "title": "Arcade à louer au centre-ville de Fribourg",
     "images": [],
     "Objektart": "Objektart\n          Ladenfläche",
     "Nutzfläche": "Nutzfläche\n          316 m²",
@@ -344,7 +366,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Votre futur espcace commercial!\n            \n\n  ",
+    "id": 23,
+    "title": "Votre futur espcace commercial!",
     "images": [],
     "Objektart": "Objektart\n          Ladenfläche",
     "Nutzfläche": "Nutzfläche\n          150 m²",
@@ -356,7 +379,8 @@
     "systemEmail": ""
   },
   {
-    "title": "  \n\n                    Ausgebaute helle Büro- und Gewerberäume an zentraler Lage\n            \n\n  ",
+    "id": 24,
+    "title": "Ausgebaute helle Büro- und Gewerberäume an zentraler Lage",
     "images": [],
     "Objektart": "Objektart\n          Büro",
     "Nutzfläche": "Nutzfläche\n          199 m²",
