@@ -1,7 +1,13 @@
 const { fetchHTML } = require("../utils/fetchData");
 
+// Define baseUrl at the top so it can be used for making sure image URLs are absolute
+const baseUrl = "https://www.livit.ch";
+
 async function scrapePage(link) {
-  const $ = await fetchHTML(link);
+  // Correcting the URL if it's duplicated
+  const correctedLink = link.startsWith(baseUrl + baseUrl) ? link.replace(baseUrl, '') : link;
+
+  const $ = await fetchHTML(correctedLink);
   if (!$) return null;
 
   // Extract the title
@@ -32,8 +38,9 @@ async function scrapePage(link) {
     }
   });
 
+  // Assume toMarkdown function exists or is imported correctly
   // Extract description and check for email
-  const descriptionHtml = $("p.rich-text.section-block").html(); // removed the Tailwind pseudo-class
+  const descriptionHtml = $("p.rich-text.section-block").html(); // Assume toMarkdown function exists or is imported
   const descriptionMarkdown = descriptionHtml
     ? toMarkdown(descriptionHtml)
     : "";
