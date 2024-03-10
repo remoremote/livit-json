@@ -1,6 +1,7 @@
 
 const { scrapeOverviewPage } = require("./src/scrape/scrapeOverviewPage");
 const { scrapePage } = require("./src/scrape/scrapePage");
+const { saveToJson } = require("./src/database/saveToJson");
 
 
 async function main() {
@@ -22,7 +23,7 @@ async function main() {
   allDetails = allDetails.filter((detail) => !("Kaufpreis" in detail));
 
   // Save to JSON and PostgreSQL database
-  await saveToJsonAndDatabase(allDetails, "details.json");
+  await saveToJson(allDetails, "details.json");
 
   // Convert JSON data to CSV and save to file
   const csvData = jsonToCsv(allDetails);
