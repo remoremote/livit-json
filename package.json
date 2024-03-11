@@ -13,6 +13,8 @@
     "@types/node": "^18.0.6",
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^3.2.6"
+    "node-fetch": "^3.2.6",
+    "turndown": "^7.1.2",
+    "turndown-plugin-gfm": "^1.0.2"
   }
 }
