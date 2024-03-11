@@ -1,31 +1,406 @@
 title,images,Objektart,Nutzfläche,Stockwerk,Verfügbarkeit,Referenz,Nettomiete / m² / Jahr,Adresse,description,systemEmail
-"R1 - Haus im Ried - Büro- oder Gewerbefläche",[],"Objektart\n          Büro","Nutzfläche\n          107 m²","Stockwerk\n          4. Stock","Verfügbarkeit\n          01.04.2024","Referenz\n          4915.01.0313","Nettomiete / m² / Jahr\n          CHF 159.–","Adresse\n                Riedstr. 1\n      6330\n      Cham","",""
-"Büroräume an zentraler Lage in Oerlikon",[],"Objektart\n          Büro","Nutzfläche\n          24 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Sofort","Referenz\n          4962.01.0302","Nettomiete / m² / Jahr\n          CHF 300.–","Adresse\n                Dörflistr. 50\n      8050\n      Zürich","",""
-"Büro- und Gewerbefläche - GO! Gewerbehaus in Oberentfelden - 130m2",[],"Objektart\n          Büro","Nutzfläche\n          130 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7320.01.0204","Nettomiete / m² / Jahr\n          CHF 130.–","Adresse\n                Industriestr. 23\n      5036\n      Oberentfelden","",""
-"Hier findet Ihr Restaurant einen Idealen Platz mit Innenhof.",[],"Objektart\n          Gewerbe","Nutzfläche\n          267 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7320.01.0315",,"Adresse\n                Industriestr. 23\n      5036\n      Oberentfelden","",""
-"Vielseitige Mietfläche: Der perfekte Start für Ihr Business",[],"Objektart\n          Gewerbe","Nutzfläche\n          189 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          7758.10.0001","Nettomiete / m² / Jahr\n          CHF 180.–","Adresse\n                Bahnhofstrasse 5\n      4415\n      Lausen","",""
-"Ladenfläche an trendiger Lage sucht neuen Mieter",[],"Objektart\n          Ladenfläche","Nutzfläche\n          82 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          6985.02.0001",,"Adresse\n                Zürcherstrasse 37\n      9000\n      St. Gallen","",""
-"Tolle Möglichkeit - möblierter Arbeitsplatz!",[],"Objektart\n          Büro","Nutzfläche\n          25 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7819.01.0144","Nettomiete / m² / Jahr\n          CHF 120.–","Adresse\n                Lohstampfenstrasse 11\n      8274\n      Tägerwilen","",""
-"Situation idéale",[],"Objektart\n          Büro","Nutzfläche\n          174 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          1641.02.0008",,"Adresse\n                Rue de Champréveyres 3\n      2000\n      Neuchâtel","",""
-"Büroräumlichkeiten mit Potenzial!",[],"Objektart\n          Büro","Nutzfläche\n          182 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7819.01.0203","Nettomiete / m² / Jahr\n          CHF 130.–","Adresse\n                Lohstampfenstrasse 11\n      8274\n      Tägerwilen","",""
-"Vous cherchez une surface commerciale au centre de Morges?",[],"Objektart\n          Coiffeursalon","Nutzfläche\n          75 m²",,"Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Rue Louis-de-Savoie 90\n      1110\n      Morges","",""
-"Praxisflächen in Top-Lage am Bahnhof Brunnen!",[],"Objektart\n          Praxis","Nutzfläche\n          132 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Gotthardstrasse 3\n      6440\n      Brunnen","",""
-"Plug & Work: Moderne Büroflächen mit eigener Dachterrasse",[],"Objektart\n          Büro","Nutzfläche\n          101 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Gotthardstrasse 3\n      6440\n      Brunnen","",""
-"Wo Arbeit auf Lebensqualität trifft",[],,,,,,,,"",""
-"Nachhaltig, modern und flexibel - Ihr neuer Standort im Kreis 1!",[],,,,,,,,"",""
-"Hero9 - Geschäftsflächen für Helden",[],,,,,,,,"",""
-"Attraktive Büroflächen in Gehdistanz zum Bahnhof Brunnen!",[],"Objektart\n          Büro","Nutzfläche\n          769 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Gotthardstrasse 1\n      6440\n      Brunnen","",""
-"Modern. Urban. Zentral. - Cityside Luzern",[],"Objektart\n          Gewerbe","Nutzfläche\n          147 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Zürichstrasse 56\n      6006\n      Luzern","",""
-"Praxisfläche im Herzen der Luzerner Altstadt",[],"Objektart\n          Praxis","Nutzfläche\n          220 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Kapellgasse 19\n      6004\n      Luzern","",""
-"Bürofläche im Herzen der Luzerner Altstadt",[],"Objektart\n          Büro","Nutzfläche\n          220 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Kapellgasse 19\n      6004\n      Luzern","",""
-"CitySide - Inspirierende Büro- und Praxisflächen",[],"Objektart\n          Büro","Nutzfläche\n          71 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Wesemlinstrasse 4\n      6006\n      Luzern","",""
-"Zentrales Büro im Herzen von Zürich!",[],"Objektart\n          Büro","Nutzfläche\n          49 m²","Stockwerk\n          4. Stock","Verfügbarkeit\n          01.06.2024","Referenz\n          6501.01.0402",,"Adresse\n                Schifflände 26\n      8001\n      Zürich","",""
-"Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!",[],"Objektart\n          Büro","Nutzfläche\n          90 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          6608.02.0302",,"Adresse\n                Löwengasse 3\n      4500\n      Solothurn","",""
-"Gewerbefläche mitten in der Stadt!",[],"Objektart\n          Ladenfläche","Nutzfläche\n          101 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          6608.02.2102","Nettomiete / m² / Jahr\n          CHF 183.–","Adresse\n                Löwengasse 3\n      4500\n      Solothurn","",""
-"Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!",[],"Objektart\n          Büro","Nutzfläche\n          173 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Löwengass 3\n      4500\n      Solothurn","",""
-"Arcade à louer au centre-ville de Fribourg",[],"Objektart\n          Ladenfläche","Nutzfläche\n          316 m²",,"Verfügbarkeit\n          16.03.2024",,,"Adresse\n                Rue des Alpes 44\n      1700\n      Fribourg","",""
-"Votre futur espcace commercial!",[],"Objektart\n          Ladenfläche","Nutzfläche\n          150 m²",,"Verfügbarkeit\n          Auf Anfrage",,"Nettomiete / m² / Jahr\n          CHF 360.–","Adresse\n                Avenue d'Echallens 61\n      1004\n      Lausanne","",""
-"Ausgebaute helle Büro- und Gewerberäume an zentraler Lage",[],"Objektart\n          Büro","Nutzfläche\n          199 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          1630.01.0021","Nettomiete / m² / Jahr\n          CHF 179.–","Adresse\n                Bahnhofstrasse 37\n      7302\n      Landquart","",""
-"Wo Arbeit auf Lebensqualität trifft",[],,,,,,,,"",""
-"Nachhaltig, modern und flexibel - Ihr neuer Standort im Kreis 1!",[],,,,,,,,"",""
-"Hero9 - Geschäftsflächen für Helden",[],,,,,,,,"",""
+"R1 - Haus im Ried - Büro- oder Gewerbefläche",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/4915a.jpg?h=e5aec6c8&itok=JcU7q3Ww",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/4915b.jpg?h=f7d9296c&itok=_LagskC1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/4915.01.0313a.jpg?h=ae012266&itok=aC3TZMIa",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/4915.01.0313b.jpg?h=5dc9785f&itok=EoobVZlM",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/4915.01.0313c.jpg?h=ae012266&itok=KKbGnpRj",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/4915.01.0313d.jpg?h=ae012266&itok=bBJfs68V",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/4915a.jpg?h=e5aec6c8&itok=R-wWIc8C",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/4915b.jpg?h=f7d9296c&itok=aPRs0hiM",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/4915.01.0313a.jpg?h=ae012266&itok=luMl7YXu",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/4915.01.0313b.jpg?h=5dc9785f&itok=57LllqIx",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/4915.01.0313c.jpg?h=ae012266&itok=6ndceknm"
+],"Objektart\n          Büro","Nutzfläche\n          107 m²","Stockwerk\n          4. Stock","Verfügbarkeit\n          01.04.2024","Referenz\n          4915.01.0313","Nettomiete / m² / Jahr\n          CHF 159.–","Adresse\n                Riedstr. 1\n      6330\n      Cham","",""
+"Büroräume an zentraler Lage in Oerlikon",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/4962a.jpg?h=0b06246c&itok=_xWDc6WS",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/4962.01.0302a.JPG?h=c9a55663&itok=AyZ16LR1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/4962.01.0302b.jpg?h=c9a55663&itok=MyA9l9an",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/4962a.jpg?h=0b06246c&itok=YwuyFew6",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/4962.01.0302a.JPG?h=c9a55663&itok=D7e7lrz7",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/4962.01.0302b.jpg?h=c9a55663&itok=vjHfy7km"
+],"Objektart\n          Büro","Nutzfläche\n          24 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Sofort","Referenz\n          4962.01.0302","Nettomiete / m² / Jahr\n          CHF 300.–","Adresse\n                Dörflistr. 50\n      8050\n      Zürich","",""
+"Büro- und Gewerbefläche - GO! Gewerbehaus in Oberentfelden - 130m2",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/7320a.jpg?h=7fb2964e&itok=SkoLJ7lZ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320b.jpg?h=04537602&itok=LY4teiop",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320c.jpg?h=10d202d3&itok=xGgS6CEj",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0204a.jpg?h=aa6c0f32&itok=34qatnvM",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0204b.jpg?h=aa6c0f32&itok=Qn4Z4pDU",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0204c.jpg?h=aa6c0f32&itok=_5NlcqFB",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0204d.jpg?h=aa6c0f32&itok=20KPWxCf",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0204e.jpg?h=aa6c0f32&itok=kw8NR9Mf",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0204f.jpg?h=aa6c0f32&itok=RHImyylw",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/7320a.jpg?h=7fb2964e&itok=q9SCml1t",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320b.jpg?h=04537602&itok=Ee1PDlmK",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320c.jpg?h=10d202d3&itok=oRHPVZ0n",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320.01.0204a.jpg?h=aa6c0f32&itok=WJpQDpDy",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320.01.0204b.jpg?h=aa6c0f32&itok=sK1-nJWf"
+],"Objektart\n          Büro","Nutzfläche\n          130 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7320.01.0204","Nettomiete / m² / Jahr\n          CHF 130.–","Adresse\n                Industriestr. 23\n      5036\n      Oberentfelden","",""
+"Hier findet Ihr Restaurant einen Idealen Platz mit Innenhof.",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/7320a.jpg?h=7fb2964e&itok=SkoLJ7lZ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320b.jpg?h=04537602&itok=LY4teiop",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320c.jpg?h=10d202d3&itok=xGgS6CEj",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0315a.jpg?h=8f74817f&itok=quYlIPuS",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0315b.jpg?h=8f74817f&itok=ayM8n4-V",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0315c.jpg?h=8f74817f&itok=Ut0D1PI9",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0315d.jpg?h=8f74817f&itok=RTxwx5iR",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0315e.jpg?h=8f74817f&itok=g6glApDg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7320.01.0315f.jpg?h=8f74817f&itok=FgssGvcS",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/7320a.jpg?h=7fb2964e&itok=q9SCml1t",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320b.jpg?h=04537602&itok=Ee1PDlmK",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320c.jpg?h=10d202d3&itok=oRHPVZ0n",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320.01.0315a.jpg?h=8f74817f&itok=euyOoRxC",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7320.01.0315b.jpg?h=8f74817f&itok=15LlS3i1"
+],"Objektart\n          Gewerbe","Nutzfläche\n          267 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7320.01.0315",,"Adresse\n                Industriestr. 23\n      5036\n      Oberentfelden","",""
+"Vielseitige Mietfläche: Der perfekte Start für Ihr Business",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/7758.10.0001a.jpg?h=94b28deb&itok=AoTx9h_L",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001b.jpg?h=e5aec6c8&itok=i1Geh7F5",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001c.jpg?h=e5aec6c8&itok=xNgsyc5F",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001d.jpg?h=e5aec6c8&itok=e0JP95-t",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001e.jpg?h=e5aec6c8&itok=_8gdazbz",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001f.jpg?h=e5aec6c8&itok=T3MaSMNJ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001g.jpg?h=e5aec6c8&itok=tE2Ny_MX",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001h.jpg?h=e5aec6c8&itok=UQdYOeN0",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7758.10.0001i.jpg?h=e5aec6c8&itok=yWoiG00f",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/7758.10.0001a.jpg?h=94b28deb&itok=MoxRO1m9",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7758.10.0001b.jpg?h=e5aec6c8&itok=B8sFA-i9",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7758.10.0001c.jpg?h=e5aec6c8&itok=j-Jc0jqR",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7758.10.0001d.jpg?h=e5aec6c8&itok=iVAYXxn-",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7758.10.0001e.jpg?h=e5aec6c8&itok=asuj1T7-"
+],"Objektart\n          Gewerbe","Nutzfläche\n          189 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          7758.10.0001","Nettomiete / m² / Jahr\n          CHF 180.–","Adresse\n                Bahnhofstrasse 5\n      4415\n      Lausen","",""
+"Ladenfläche an trendiger Lage sucht neuen Mieter",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/6985a.jpg?h=deaec4b9&itok=hvGLEm0L",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001b.jpg?h=deaec4b9&itok=S9cwzzbV",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001c.jpg?h=deaec4b9&itok=Syl1WJdE",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001d.jpg?h=deaec4b9&itok=tClP6tJR",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001e.jpg?h=deaec4b9&itok=LRLk7XYq",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001f.jpg?h=deaec4b9&itok=n4VXce9K",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001g.jpg?h=deaec4b9&itok=7kApj7M2",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001h.jpg?h=deaec4b9&itok=s4DQTqD8",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6985.02.0001i.jpg?h=deaec4b9&itok=XdcvwUwU",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/6985a.jpg?h=deaec4b9&itok=oCtKvMd0",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6985.02.0001b.jpg?h=deaec4b9&itok=A0rGp2dW",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6985.02.0001c.jpg?h=deaec4b9&itok=pC1lBx9P",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6985.02.0001d.jpg?h=deaec4b9&itok=lcEvyk-_",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6985.02.0001e.jpg?h=deaec4b9&itok=AaZdTR-d"
+],"Objektart\n          Ladenfläche","Nutzfläche\n          82 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          6985.02.0001",,"Adresse\n                Zürcherstrasse 37\n      9000\n      St. Gallen","",""
+"Tolle Möglichkeit - möblierter Arbeitsplatz!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/7819.01.0144a.jpg?h=deaec4b9&itok=ruvyvtbm",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7819.01.0144b.jpg?h=deaec4b9&itok=6YJ7Pz-T",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7819.01.0144c.jpg?h=deaec4b9&itok=r4TBNhMJ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/7819.01.0144a.jpg?h=deaec4b9&itok=w0nA4iJq",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7819.01.0144b.jpg?h=deaec4b9&itok=6DZraIqY",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7819.01.0144c.jpg?h=deaec4b9&itok=LtTpOjNo"
+],"Objektart\n          Büro","Nutzfläche\n          25 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7819.01.0144","Nettomiete / m² / Jahr\n          CHF 120.–","Adresse\n                Lohstampfenstrasse 11\n      8274\n      Tägerwilen","",""
+"Situation idéale",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/1641.02.0008a.jpg?h=a5eb5da0&itok=hoWs-m8I",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008b.jpg?h=0d054e74&itok=tQOm1Wdf",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008c.jpg?h=b3660f0d&itok=dNNWL-jl",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008d.jpg?h=4521fff0&itok=LdBSQz4P",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008e.jpg?h=4521fff0&itok=LzYdwwAb",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008f.jpg?h=b3f25743&itok=jxR-gK8_",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008g.jpg?h=b3f25743&itok=Tw-i0MHz",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008h.jpg?h=4521fff0&itok=njZLo5nA",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1641.02.0008i.jpg?h=4521fff0&itok=AKh6-ii2",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/1641.02.0008a.jpg?h=a5eb5da0&itok=gnIqrV0d",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1641.02.0008b.jpg?h=0d054e74&itok=nU-1_Hd0",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1641.02.0008c.jpg?h=b3660f0d&itok=jcG4b4TT",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1641.02.0008d.jpg?h=4521fff0&itok=nZ3g-tnU",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1641.02.0008e.jpg?h=4521fff0&itok=k3y29jMr"
+],"Objektart\n          Büro","Nutzfläche\n          174 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          1641.02.0008",,"Adresse\n                Rue de Champréveyres 3\n      2000\n      Neuchâtel","",""
+"Büroräumlichkeiten mit Potenzial!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/7819.01.0203a.jpg?h=deaec4b9&itok=Y9qlr5L1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7819.01.0203b.jpg?h=deaec4b9&itok=Wq2XX-rP",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7819.01.0203c.jpg?h=52d3fcb6&itok=afZN_kQJ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7819.01.0203d.jpg?h=52d3fcb6&itok=YpFdyqNH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7819.01.0203e.jpg?h=d0470b75&itok=X3wlx66E",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/7819.01.0203f.jpg?h=d0470b75&itok=GNgiCx9J",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/7819.01.0203a.jpg?h=deaec4b9&itok=AMdv9bTm",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7819.01.0203b.jpg?h=deaec4b9&itok=RySr8it2",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7819.01.0203c.jpg?h=52d3fcb6&itok=Lmjkvqbh",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7819.01.0203d.jpg?h=52d3fcb6&itok=Jm25_ozT",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/7819.01.0203e.jpg?h=d0470b75&itok=1uPjNVuu"
+],"Objektart\n          Büro","Nutzfläche\n          182 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          7819.01.0203","Nettomiete / m² / Jahr\n          CHF 130.–","Adresse\n                Lohstampfenstrasse 11\n      8274\n      Tägerwilen","",""
+"Vous cherchez une surface commerciale au centre de Morges?",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/0000.00.1438a.jpg?h=a9ebf224&itok=6aPNUlAu",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1438b.jpg?h=a125b2fe&itok=DzLhmBvA",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1438c.jpg?h=46303fb5&itok=F_KpZWU1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/0000.00.1438a.jpg?h=a9ebf224&itok=rc5i9eWC",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1438b.jpg?h=a125b2fe&itok=H-NUqDE5",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1438c.jpg?h=46303fb5&itok=I9Kjo7dz"
+],"Objektart\n          Coiffeursalon","Nutzfläche\n          75 m²",,"Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Rue Louis-de-Savoie 90\n      1110\n      Morges","",""
+"Praxisflächen in Top-Lage am Bahnhof Brunnen!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/b8b4dc2544-230627.jpg?h=e5aec6c8&itok=diIYoycH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/9e6a46f24a-230627.jpg?h=e5aec6c8&itok=TSS4_u6q",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/2377baca44-230627.jpg?h=e5aec6c8&itok=kzEEOf3x",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/eacc683b4b-230614.jpg?h=b07e2362&itok=wytWDwOt",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/b8b4dc2544-230627.jpg?h=e5aec6c8&itok=ENON_An7",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/9e6a46f24a-230627.jpg?h=e5aec6c8&itok=CKuLD0iW",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/2377baca44-230627.jpg?h=e5aec6c8&itok=_8LL207K",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/eacc683b4b-230614.jpg?h=b07e2362&itok=Pk2u9pVG"
+],"Objektart\n          Praxis","Nutzfläche\n          132 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Gotthardstrasse 3\n      6440\n      Brunnen","",""
+"Plug & Work: Moderne Büroflächen mit eigener Dachterrasse",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/70a1602e4d-230627.jpg?h=e5aec6c8&itok=Mi6RsHK2",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/54aa7a944f-230627.jpg?h=e5aec6c8&itok=A50K_N3e",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/d4df4f754c-230627.jpg?h=e5aec6c8&itok=yoSLnTyv",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/5719c2364c-230614.jpg?h=3065264e&itok=bpxQAxVH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/70a1602e4d-230627.jpg?h=e5aec6c8&itok=H60mPIub",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/54aa7a944f-230627.jpg?h=e5aec6c8&itok=XCaNJDs5",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/d4df4f754c-230627.jpg?h=e5aec6c8&itok=vYCEq9P-",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/5719c2364c-230614.jpg?h=3065264e&itok=5X1j71Ll"
+],"Objektart\n          Büro","Nutzfläche\n          101 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Gotthardstrasse 3\n      6440\n      Brunnen","",""
+"Wo Arbeit auf Lebensqualität trifft",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_068.jpg?h=e5aec6c8&itok=TFmd_5by",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_016.jpg?h=e5aec6c8&itok=vhqdoNM1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_044.jpg?h=e5aec6c8&itok=ZeY9EmsX",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_039_-_kopie.jpg?h=e5aec6c8&itok=LWD8OpyL",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_083.jpg?h=e5aec6c8&itok=_bpFKI4Q",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_068.jpg?h=e5aec6c8&itok=x5CY3YUo",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_016.jpg?h=e5aec6c8&itok=r_ee72AH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_044.jpg?h=e5aec6c8&itok=b509SGIL",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_039_-_kopie.jpg?h=e5aec6c8&itok=hP6hUOBK",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_083.jpg?h=e5aec6c8&itok=SA9iDZjt",
+  "https://www.livit.ch/sites/default/files/styles/responsive_1_1_200w/public/2023-09/julia_steiner_2_klein.jpg.webp?h=60f53dc3&itok=tgYC_mm5"
+],,,,,,,,"",""
+"Nachhaltig, modern und flexibel - Ihr neuer Standort im Kreis 1!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/2023-10/aussenansicht.jpg?h=5b69f81c&itok=9vQFU--h",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/02.jpg?h=8f74817f&itok=5C2wQgz-",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/03.jpg?h=8f74817f&itok=8sO3atW0",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/12.jpg?h=8f74817f&itok=b0ZKXEkg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/07.jpg?h=8f74817f&itok=R6jDQddn",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/09.jpg?h=8f74817f&itok=Q8Br_IYw",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/13.jpg?h=8f74817f&itok=Agj_qIBv",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/treppenhaus_1.jpg?h=56d0ca2e&itok=4B6GGQHg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/eingangsbereich.jpg?h=63bf2683&itok=ybJCGDlA",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/2023-10/aussenansicht.jpg?h=5b69f81c&itok=9WHtJR7u",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/02.jpg?h=8f74817f&itok=JmfpfsGl",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/03.jpg?h=8f74817f&itok=r8ta7zkD",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/12.jpg?h=8f74817f&itok=8pbgN4Hg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/07.jpg?h=8f74817f&itok=ziZEqQgH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_1_1_200w/public/2022-10/silvan_bugmann_klein.jpg?h=2f1a83a2&itok=CPB5LBWa"
+],,,,,,,,"",""
+"Hero9 - Geschäftsflächen für Helden",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/2022-12/herostrasse_9_zuerich_web_qualitaet_005.jpg?h=e5aec6c8&itok=DSeqgDCE",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_007.jpg?h=e5aec6c8&itok=S8a3XNx9",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_011.jpg?h=e5aec6c8&itok=FvjYqf-F",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_013.jpg?h=e5aec6c8&itok=Sn0p4Nl4",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_042.jpg?h=e5aec6c8&itok=QrNZB8sH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_016.jpg?h=e5aec6c8&itok=PoLXFwLm",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_019.jpg?h=e5aec6c8&itok=yBRShzrV",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_005.jpg?h=e5aec6c8&itok=YMTeuOtF",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_007.jpg?h=e5aec6c8&itok=CxMllHCa",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_011.jpg?h=e5aec6c8&itok=CfgdYbGs",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_013.jpg?h=e5aec6c8&itok=cjOvdUz8",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_042.jpg?h=e5aec6c8&itok=wcgGXwYn",
+  "https://www.livit.ch/sites/default/files/styles/responsive_1_1_200w/public/2022-12/yolanda_cadisch_2.jpg?h=72f56a9b&itok=g-lc6niN"
+],,,,,,,,"",""
+"Attraktive Büroflächen in Gehdistanz zum Bahnhof Brunnen!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/bf0147ec44-230614.jpg?h=b07e2362&itok=MTgT0GF0",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/bf0147ec44-230614.jpg?h=b07e2362&itok=Svb0Ogep"
+],"Objektart\n          Büro","Nutzfläche\n          769 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Gotthardstrasse 1\n      6440\n      Brunnen","",""
+"Modern. Urban. Zentral. - Cityside Luzern",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/7af4c2914c-220720.jpg?h=e5aec6c8&itok=utAEJUAS",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/fac06be74d-230406.jpg?h=1116cd87&itok=5NPLjHRy",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/8f62bea544-230308.jpg?h=e5aec6c8&itok=N9oddFru",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/fc503f5a45-230308.jpg?h=e5aec6c8&itok=DH5dihH7",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/7af4c2914c-220720.jpg?h=e5aec6c8&itok=Rd1WHjJ9",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/fac06be74d-230406.jpg?h=1116cd87&itok=Jwsukspk",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/8f62bea544-230308.jpg?h=e5aec6c8&itok=vBtthohx",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/fc503f5a45-230308.jpg?h=e5aec6c8&itok=t3BOeiCm"
+],"Objektart\n          Gewerbe","Nutzfläche\n          147 m²","Stockwerk\n          1. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Zürichstrasse 56\n      6006\n      Luzern","",""
+"Praxisfläche im Herzen der Luzerner Altstadt",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/058523074b-230912.jpg?h=e5aec6c8&itok=0MOt585-",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/b0e1d74c46-221017.jpg?h=72e0457b&itok=FvABj36H",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/2ebf522247-220630.JPG?h=fbff8f81&itok=y6upcYWG",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/058523074b-230912.jpg?h=e5aec6c8&itok=FJnKIjQh",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/b0e1d74c46-221017.jpg?h=72e0457b&itok=kd34NdsM",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/2ebf522247-220630.JPG?h=fbff8f81&itok=JYiI0IGz"
+],"Objektart\n          Praxis","Nutzfläche\n          220 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Kapellgasse 19\n      6004\n      Luzern","",""
+"Bürofläche im Herzen der Luzerner Altstadt",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/01f9045540-230912.jpg?h=e5aec6c8&itok=MrsY9Myq",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/a53d6e524b-221005.jpg?h=72e0457b&itok=7a_7Ndz-",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/fda9a94243-220630.JPG?h=fbff8f81&itok=GCxratWO",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/01f9045540-230912.jpg?h=e5aec6c8&itok=1-JjVr2n",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/a53d6e524b-221005.jpg?h=72e0457b&itok=ynJnB8Vt",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/fda9a94243-220630.JPG?h=fbff8f81&itok=NUimL3dx"
+],"Objektart\n          Büro","Nutzfläche\n          220 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Kapellgasse 19\n      6004\n      Luzern","",""
+"CitySide - Inspirierende Büro- und Praxisflächen",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/f3c6311043-210920.jpg?h=e5aec6c8&itok=tkuXgiIO",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/32ed67ee46-210920.jpg?h=e5aec6c8&itok=P5Ivgq0k",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/10656bb040-220922.jpg?h=e5aec6c8&itok=aPHyhlN4",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/489a2d6948-220922.jpg?h=e5aec6c8&itok=hYNA_K09",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/dd74194242-220922.jpg?h=e5aec6c8&itok=I_yld31o",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/d8112e6344-230406.jpg?h=1116cd87&itok=0FoPgMnb",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/f3c6311043-210920.jpg?h=e5aec6c8&itok=5v95JbPP",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/32ed67ee46-210920.jpg?h=e5aec6c8&itok=suJuOLLu",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/10656bb040-220922.jpg?h=e5aec6c8&itok=ONBZ-nib",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/489a2d6948-220922.jpg?h=e5aec6c8&itok=rSvHcDdl",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/dd74194242-220922.jpg?h=e5aec6c8&itok=hsy66KJm"
+],"Objektart\n          Büro","Nutzfläche\n          71 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Wesemlinstrasse 4\n      6006\n      Luzern","",""
+"Zentrales Büro im Herzen von Zürich!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/6501a.jpg?h=e5aec6c8&itok=7hE5sBSN",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6501b.JPG?h=f4c04385&itok=FaGnnE6x",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6501.01.0402a.jpg?h=e5aec6c8&itok=BqKDbEvE",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6501.01.0402b.jpg?h=e5aec6c8&itok=E0DRj8zR",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6501.01.0402c.jpg?h=e5aec6c8&itok=15nPorer",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/6501a.jpg?h=e5aec6c8&itok=O-tlgGD1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6501b.JPG?h=f4c04385&itok=q1QDDhwv",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6501.01.0402a.jpg?h=e5aec6c8&itok=f_3Lw4qj",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6501.01.0402b.jpg?h=e5aec6c8&itok=0yxK_kiy",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6501.01.0402c.jpg?h=e5aec6c8&itok=b118Lu0o"
+],"Objektart\n          Büro","Nutzfläche\n          49 m²","Stockwerk\n          4. Stock","Verfügbarkeit\n          01.06.2024","Referenz\n          6501.01.0402",,"Adresse\n                Schifflände 26\n      8001\n      Zürich","",""
+"Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/6608.02.0302a.jpg?h=aa6c0f32&itok=0DXu5W9k",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.0302b.jpg?h=aa6c0f32&itok=nEgb8tZT",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.0302c.jpg?h=aa6c0f32&itok=7GPdbX_w",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.0302d.jpg?h=aa6c0f32&itok=EfiwqS-l",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.0302e.jpg?h=aa6c0f32&itok=n-mCgNKW",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.0302f.jpg?h=aa6c0f32&itok=Cdkll6Qc",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.0302g.jpg?h=aa6c0f32&itok=6j3ENaXd",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.0302h.jpg?h=aa6c0f32&itok=TsRfOCFi",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/6608.02.0302a.jpg?h=aa6c0f32&itok=5QxcUPim",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.0302b.jpg?h=aa6c0f32&itok=YRZorbbH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.0302c.jpg?h=aa6c0f32&itok=N5gV_3AK",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.0302d.jpg?h=aa6c0f32&itok=JaoHlove",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.0302e.jpg?h=aa6c0f32&itok=aO0cbhQe"
+],"Objektart\n          Büro","Nutzfläche\n          90 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          6608.02.0302",,"Adresse\n                Löwengasse 3\n      4500\n      Solothurn","",""
+"Gewerbefläche mitten in der Stadt!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/6608.02.2102a.jpg?h=56d0ca2e&itok=C7n-xPPG",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.2102b.jpg?h=aa6c0f32&itok=sAJWFx0r",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.2102c.jpg?h=aa6c0f32&itok=5QtssiQt",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.2102d.jpg?h=aa6c0f32&itok=Y9A-QSi7",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.2102e.jpg?h=aa6c0f32&itok=lWymYJtQ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.2102f.jpg?h=aa6c0f32&itok=YVdeqpOC",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.2102g.jpg?h=aa6c0f32&itok=oHBA74H8",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/6608.02.2102h.jpg?h=aa6c0f32&itok=avxswhtH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/6608.02.2102a.jpg?h=56d0ca2e&itok=WpXExaNH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.2102b.jpg?h=aa6c0f32&itok=c0Hx7JXs",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.2102c.jpg?h=aa6c0f32&itok=Ipm8XHWx",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.2102d.jpg?h=aa6c0f32&itok=X4m6kwwV",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/6608.02.2102e.jpg?h=aa6c0f32&itok=Avy4oa-c"
+],"Objektart\n          Ladenfläche","Nutzfläche\n          101 m²",,"Verfügbarkeit\n          Auf Anfrage","Referenz\n          6608.02.2102","Nettomiete / m² / Jahr\n          CHF 183.–","Adresse\n                Löwengasse 3\n      4500\n      Solothurn","",""
+"Individuelle Büro-, Praxis- oder Beratungsflächen für Ihre Unternehmung!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/0000.00.1439a.jpg?h=aa6c0f32&itok=2_x_UouG",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439b.jpg?h=aa6c0f32&itok=Lc0liph8",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439c.jpg?h=aa6c0f32&itok=hgBHLFi6",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439d.jpg?h=aa6c0f32&itok=v3hlFdnh",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439e.jpg?h=aa6c0f32&itok=OyoktIaZ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439f.jpg?h=aa6c0f32&itok=TZx-KpX-",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439g.jpg?h=aa6c0f32&itok=tbB7tlzt",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439h.jpg?h=aa6c0f32&itok=Tl40R9Et",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1439i.jpg?h=aa6c0f32&itok=0JCzSSdm",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/0000.00.1439a.jpg?h=aa6c0f32&itok=qvNUbJ2d",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1439b.jpg?h=aa6c0f32&itok=HljCLxKA",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1439c.jpg?h=aa6c0f32&itok=Km30A2NI",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1439d.jpg?h=aa6c0f32&itok=DUanvWgI",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1439e.jpg?h=aa6c0f32&itok=p_GijSdi"
+],"Objektart\n          Büro","Nutzfläche\n          173 m²","Stockwerk\n          3. Stock","Verfügbarkeit\n          Auf Anfrage",,,"Adresse\n                Löwengass 3\n      4500\n      Solothurn","",""
+"Arcade à louer au centre-ville de Fribourg",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/0000.00.1472a.jpg?h=da8a850f&itok=7IPMJ9Sz",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1472b.jpg?h=da8a850f&itok=VC6EhC7y",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/0000.00.1472a.jpg?h=da8a850f&itok=LdI6onA2",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1472b.jpg?h=da8a850f&itok=lzUtGfLi"
+],"Objektart\n          Ladenfläche","Nutzfläche\n          316 m²",,"Verfügbarkeit\n          16.03.2024",,,"Adresse\n                Rue des Alpes 44\n      1700\n      Fribourg","",""
+"Votre futur espcace commercial!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/0000.00.1463a.jpg?h=8f74817f&itok=uLmuFQfH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1463b.jpg?h=4df5881d&itok=iA60f9Sk",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1463c.jpg?h=8f74817f&itok=G917HhIQ",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1463d.jpg?h=8f74817f&itok=B7fIfT3J",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1463e.jpg?h=8f74817f&itok=FfjmsoU1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1463f.jpg?h=8f74817f&itok=k5Y0EInz",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/0000.00.1463g.jpg?h=8f74817f&itok=pFqiLjLi",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/0000.00.1463a.jpg?h=8f74817f&itok=O6Ae8dxC",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1463b.jpg?h=4df5881d&itok=XSiLAfHM",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1463c.jpg?h=8f74817f&itok=skKI98pE",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1463d.jpg?h=8f74817f&itok=q8lNOsoG",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/0000.00.1463e.jpg?h=8f74817f&itok=QX504nUq"
+],"Objektart\n          Ladenfläche","Nutzfläche\n          150 m²",,"Verfügbarkeit\n          Auf Anfrage",,"Nettomiete / m² / Jahr\n          CHF 360.–","Adresse\n                Avenue d'Echallens 61\n      1004\n      Lausanne","",""
+"Ausgebaute helle Büro- und Gewerberäume an zentraler Lage",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/reo/images/1630.01a.jpg?h=deaec4b9&itok=qFCXqNjO",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1630.01.0021a.jpg?h=81a3771e&itok=KfMvNe_N",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1630.01.0021b.jpg?h=81a3771e&itok=mOQtPdUd",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1630.01.0021c.jpg?h=81a3771e&itok=b-7RqOmw",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1630.01.0021d.jpg?h=81a3771e&itok=VcgptQck",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1630.01.0021e.jpg?h=5dc9785f&itok=cHc76Dcv",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/reo/images/1630.01.0021f.jpg?h=5dc9785f&itok=6ZlGfoy8",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/reo/images/1630.01a.jpg?h=deaec4b9&itok=4wndVjhU",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1630.01.0021a.jpg?h=81a3771e&itok=kwSvK66o",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1630.01.0021b.jpg?h=81a3771e&itok=PaZGVBre",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1630.01.0021c.jpg?h=81a3771e&itok=CBWJm6Rn",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/reo/images/1630.01.0021d.jpg?h=81a3771e&itok=xNApgzNQ"
+],"Objektart\n          Büro","Nutzfläche\n          199 m²","Stockwerk\n          2. Stock","Verfügbarkeit\n          Auf Anfrage","Referenz\n          1630.01.0021","Nettomiete / m² / Jahr\n          CHF 179.–","Adresse\n                Bahnhofstrasse 37\n      7302\n      Landquart","",""
+"Wo Arbeit auf Lebensqualität trifft",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_068.jpg?h=e5aec6c8&itok=TFmd_5by",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_016.jpg?h=e5aec6c8&itok=vhqdoNM1",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_044.jpg?h=e5aec6c8&itok=ZeY9EmsX",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_039_-_kopie.jpg?h=e5aec6c8&itok=LWD8OpyL",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_083.jpg?h=e5aec6c8&itok=_bpFKI4Q",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_068.jpg?h=e5aec6c8&itok=x5CY3YUo",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_016.jpg?h=e5aec6c8&itok=r_ee72AH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_044.jpg?h=e5aec6c8&itok=b509SGIL",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_039_-_kopie.jpg?h=e5aec6c8&itok=hP6hUOBK",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2024-01/tessinerplatz_5_zuerich_web_qualitaet_083.jpg?h=e5aec6c8&itok=SA9iDZjt",
+  "https://www.livit.ch/sites/default/files/styles/responsive_1_1_200w/public/2023-09/julia_steiner_2_klein.jpg.webp?h=60f53dc3&itok=tgYC_mm5"
+],,,,,,,,"",""
+"Nachhaltig, modern und flexibel - Ihr neuer Standort im Kreis 1!",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/2023-10/aussenansicht.jpg?h=5b69f81c&itok=9vQFU--h",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/02.jpg?h=8f74817f&itok=5C2wQgz-",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/03.jpg?h=8f74817f&itok=8sO3atW0",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/12.jpg?h=8f74817f&itok=b0ZKXEkg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/07.jpg?h=8f74817f&itok=R6jDQddn",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/09.jpg?h=8f74817f&itok=Q8Br_IYw",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/13.jpg?h=8f74817f&itok=Agj_qIBv",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/treppenhaus_1.jpg?h=56d0ca2e&itok=4B6GGQHg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2023-10/eingangsbereich.jpg?h=63bf2683&itok=ybJCGDlA",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/2023-10/aussenansicht.jpg?h=5b69f81c&itok=9WHtJR7u",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/02.jpg?h=8f74817f&itok=JmfpfsGl",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/03.jpg?h=8f74817f&itok=r8ta7zkD",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/12.jpg?h=8f74817f&itok=8pbgN4Hg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2023-10/07.jpg?h=8f74817f&itok=ziZEqQgH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_1_1_200w/public/2022-10/silvan_bugmann_klein.jpg?h=2f1a83a2&itok=CPB5LBWa"
+],,,,,,,,"",""
+"Hero9 - Geschäftsflächen für Helden",[
+  "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_900w_20px_height/public/2022-12/herostrasse_9_zuerich_web_qualitaet_005.jpg?h=e5aec6c8&itok=DSeqgDCE",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_007.jpg?h=e5aec6c8&itok=S8a3XNx9",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_011.jpg?h=e5aec6c8&itok=FvjYqf-F",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_013.jpg?h=e5aec6c8&itok=Sn0p4Nl4",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_042.jpg?h=e5aec6c8&itok=QrNZB8sH",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_016.jpg?h=e5aec6c8&itok=PoLXFwLm",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_9_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_019.jpg?h=e5aec6c8&itok=yBRShzrV",
+  "https://www.livit.ch/sites/default/files/styles/responsive_16_10_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_005.jpg?h=e5aec6c8&itok=YMTeuOtF",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_007.jpg?h=e5aec6c8&itok=CxMllHCa",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_011.jpg?h=e5aec6c8&itok=CfgdYbGs",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_013.jpg?h=e5aec6c8&itok=cjOvdUz8",
+  "https://www.livit.ch/sites/default/files/styles/responsive_3_4_800w/public/2022-12/herostrasse_9_zuerich_web_qualitaet_042.jpg?h=e5aec6c8&itok=wcgGXwYn",
+  "https://www.livit.ch/sites/default/files/styles/responsive_1_1_200w/public/2022-12/yolanda_cadisch_2.jpg?h=72f56a9b&itok=g-lc6niN"
+],,,,,,,,"",""

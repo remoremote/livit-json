@@ -1,30 +1,35 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 
-async function scrapeImages(link, imageCount) {
-  const images = [];
+async function scrapeImages(link) {
+    const images = [];
+    try {
+        const { data } = await axios.get(link);
+        const $ = cheerio.load(data);
+        const maxImages = parseInt($(".fslightbox-slide-number-container").text().split('/')[1], 10) || Infinity;
 
-  try {
-    const { data } = await axios.get(link);
-    const $ = cheerio.load(data);
+        $('img').each((index, image) => {
+            if (images.length >= maxImages) return false; // Stop if maxImages reached
+            const src = $(image).attr('src') || $(image).attr('data-src');
+            let imageUrl = src;
+            // Ignore specific image URL
+            if (imageUrl && imageUrl === 'https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg') {
+                console.log('Ignoring logo image.');
+                return;
+            }
+            if (imageUrl && !imageUrl.includes('maps.googleapis')) {
+                // Ensure the imageUrl starts with http/https, otherwise prepend the base URL
+                if (!imageUrl.startsWith('http')) {
+                    imageUrl = `https://www.livit.ch${imageUrl}`;
+                }
+                images.push(imageUrl);
+            }
+        });
+    } catch (error) {
+        console.error("Error scraping images:", error);
+    }
 
-    // Since the specific class to click is not clear without interaction capabilities,
-    // focusing on images directly accessible or indicated in the loaded HTML.
-    $("img.fslightbox-source").each((index, element) => {
-      if (images.length < imageCount) {
-        let src = $(element).attr("src");
-        // Ensure the src starts with http/https, otherwise prepend the base URL
-        if (!src.startsWith("http")) {
-          src = `https://www.livit.ch${src}`;
-        }
-        images.push(src);
-      }
-    });
-  } catch (error) {
-    console.error("Error scraping images:", error);
-  }
-
-  return images;
+    return images;
 }
 
 module.exports = { scrapeImages };
