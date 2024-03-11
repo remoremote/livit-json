@@ -1,4 +1,5 @@
 const { fetchHTML } = require("../utils/fetchData");
+const { scrapeImages } = require("./imageScrape");
 
 // Define baseUrl at the top so it can be used for making sure image URLs are absolute
 const baseUrl = "https://www.livit.ch";
@@ -13,20 +14,11 @@ async function scrapePage(link) {
   // Extract the title
   const title = $("h1:first-of-type").text().replace(/\s+/g, " ").trim();
 
-  // Extract images from lightbox, ensure absolute URLs
-  const images = [];
-  $(".fslightbox-container .fslightbox-source").each((i, elem) => {
-    let imageUrl = $(elem).attr("src");
-    if (imageUrl) {
-      // Ensure imageUrl is an absolute URL
-      if (!imageUrl.startsWith('http')) {
-        imageUrl = baseUrl + imageUrl;
-      }
-      if (!images.includes(imageUrl)) {
-        images.push(imageUrl);
-      }
-    }
-  });
+  // Use scrapeImages from imageScrape.js to fetch images
+  // Determine the number of images from the class="fslightbox-slide-number-container"
+  const imageCountContainer = $(".fslightbox-slide-number-container").text();
+  const totalImages = imageCountContainer ? parseInt(imageCountContainer.split('/')[1], 10) : 0;
+  const images = await scrapeImages(correctedLink, totalImages);
 
   // Extract key-value pairs
   const keyValuePairs = {};
