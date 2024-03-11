@@ -2,7 +2,7 @@ const { scrapeOverviewPage } = require("./src/scrape/scrapeOverviewPage");
 const { scrapePage } = require("./src/scrape/scrapePage");
 const { saveToJson } = require("./src/database/saveToJson");
 const { saveDataToFile } = require("./src/utils/fileHelpers");
-
+const { filterImageUrls } = require("./src/utils/parseHelpers"); 
 
 
 async function main() {
@@ -25,6 +25,12 @@ async function main() {
 
   allDetails = allDetails.filter((detail) => !("Kaufpreis" in detail));
 
+  // Filter links before saving
+  // For demonstration, reusing filterImageUrls, but you may need to create a similar function for links
+  const filteredLinks = filterImageUrls(allLinks); // Adjust function to filter links based on your criteria
+  // Save filtered links to JSON
+  await saveToJson(filteredLinks, "links.json"); // Saving the filtered links instead of all links
+  
   // Save links to JSON
   await saveToJson(allLinks, "links.json"); // Saving the fetched links
 

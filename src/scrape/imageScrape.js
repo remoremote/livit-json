@@ -7,29 +7,26 @@ async function scrapeImages(link) {
         const { data } = await axios.get(link);
         const $ = cheerio.load(data);
         const maxImages = parseInt($(".fslightbox-slide-number-container").text().split('/')[1], 10) || Infinity;
-
         $('img').each((index, image) => {
             if (images.length >= maxImages) return false; // Stop if maxImages reached
-            const src = $(image).attr('src') || $(image).attr('data-src');
-            let imageUrl = src;
-            // Ignore specific image URL
-            if (imageUrl && imageUrl === 'https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg') {
-                console.log('Ignoring logo image.');
-                return;
-            }
-            if (imageUrl && !imageUrl.includes('maps.googleapis')) {
+            let src = $(image).attr('src') || $(image).attr('data-src');
+            if (src) {
                 // Ensure the imageUrl starts with http/https, otherwise prepend the base URL
-                if (!imageUrl.startsWith('http')) {
-                    imageUrl = `https://www.livit.ch${imageUrl}`;
+                if (!src.startsWith('http')) {
+                    src = `https://www.livit.ch${src}`;
                 }
-                images.push(imageUrl);
+                // Exclude specific URLs
+                if (src !== "https://www.livit.ch/themes/custom/wingsuit/dist/app-drupal/images/logo.svg" && !src.includes("maps.googleapis.com")) {
+                    images.push(src);
+                }
             }
         });
     } catch (error) {
         console.error("Error scraping images:", error);
     }
-
     return images;
 }
+
+
 
 module.exports = { scrapeImages };
